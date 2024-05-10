@@ -6,6 +6,10 @@
   background-color: gray;
 }
 
+button:hover{
+  cursor:pointer;
+}
+
 body{
   display: flex;
   justify-content: center;
@@ -20,6 +24,7 @@ body{
   width: 240px;
   margin-bottom: 20px;
   background-color: lightblue;
+  padding-left: 12px;
 }
 
 .grid-numbers{
